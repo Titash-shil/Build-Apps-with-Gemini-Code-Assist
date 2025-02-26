@@ -1,4 +1,4 @@
-# || [Introduction to BigQuery SQL translation](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) || 
+# || [Build Apps with Gemini Code Assist](https://www.cloudskillsboost.google/paths/19/course_templates/1166/labs/509927) || 
 
 ## # Like, comment, share & Don't forget to subscribe [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
