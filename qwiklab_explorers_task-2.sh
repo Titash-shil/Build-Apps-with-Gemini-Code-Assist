@@ -109,9 +109,9 @@ cd templates
 
 rm convert.html index.html
 
-wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Build%20Apps%20with%20Gemini%20Code%20Assist/convert.html
+wget https://raw.githubusercontent.com/Titash-shil/Build-Apps-with-Gemini-Code-Assist/refs/heads/main/qwiklab_explorers_convert.html
 
-wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Build%20Apps%20with%20Gemini%20Code%20Assist/index.html
+wget https://raw.githubusercontent.com/Titash-shil/Build-Apps-with-Gemini-Code-Assist/refs/heads/main/qwiklab_explorers_index.html
 
 cd ..
 
