@@ -10,9 +10,9 @@
 ### Run the following Commands in CloudShell
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Build%20Apps%20with%20Gemini%20Code%20Assist/task1.sh
-sudo chmod +x task1.sh
-./task1.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Build-Apps-with-Gemini-Code-Assist/refs/heads/main/qwiklab_explorers_task-1.sh
+sudo chmod +x qwiklab_explorers_task-1.sh
+./qwiklab_explorers_task-1.sh
 ```
 - This runs the script to set up your environment for the lab. It will provision resources and configure them as needed.
 ---
@@ -20,8 +20,8 @@ sudo chmod +x task1.sh
 - ### Go to WorkStation from [Here](https://console.cloud.google.com/workstations/list?referrer=search&project=)
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/Build%20Apps%20with%20Gemini%20Code%20Assist/task2.sh
-source task2.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Build-Apps-with-Gemini-Code-Assist/refs/heads/main/qwiklab_explorers_task-2.sh
+source qwiklab_explorers_task-2.sh
 ```
 ---
 
